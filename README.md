@@ -1,9 +1,6 @@
 Source code for the virtual worm project associated with the paper:
 
-Palyanov A, Khayrulin S, Larson SD, Dibert A (2013) Towards a virtual  
-C. elegans: a framework for simulation and visualization of the  
-neuromuscular system in a 3D physical environment. In *Silico Biol*  
-11:137-47
+Palyanov A, Khayrulin S, Larson SD, Dibert A (2013) Towards a virtual C. elegans: a framework for simulation and visualization of the neuromuscular system in a 3D physical environment. In *Silico Biol* 11:137-47
 
 is available here (clicking the zip button is one way to download):
 
